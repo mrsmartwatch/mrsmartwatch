@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Minimal Mistakes
-locale:           en_US
-url:              //mmistakes.github.io/minimal-mistakes
+title:            Mr. Smartwatch
+locale:           de_DE
+url:
 
 
 # Jekyll configuration
@@ -41,21 +41,36 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Michael Rose
-  avatar: bio-photo.jpg
-  bio: "Just another boring, time traveling, tattooed, designer from Buffalo New York."
-  disqus-shortname: minimalmistakes
-  twitter: mmistakes
-  facebook: michaelrose
+  name: Justin Güse
+  avatar: pebble.jpg
+  bio: "Justin is a student with deep interest in the field of Brain Computer Interfaces. Other than that he deals with website-design and runs the smartwatch online store www.mrsmartwatch.net . In his freetime he enjoys to travel."
+  email: guese.justin@gmail.com
+  disqus-shortname: JohnGates
+  twitter: #username
+  facebook: guese.justin
   google:
-    plus: MichaelRoseDesign
-    analytics: UA-2011187-3
-    verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 7855747535
-  bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
-  github: mmistakes
-  instagram: mmistakes
+    plus: 116424497282893876716
+    analytics: UA-56269619-5
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: johnson11
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  xing: #username
+  instagram: guestros
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  codepen: #username
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
