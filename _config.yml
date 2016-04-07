@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
+title:            Mr. Smartwatch
+locale:           de_DE
 url:
 
 
@@ -41,25 +41,25 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
-  disqus-shortname:
+  name: Justin Güse
+  avatar: pebble.jpg
+  bio: "Justin is a student with deep interest in the field of Brain Computer Interfaces. Other than that he deals with website-design and runs the smartwatch online store www.mrsmartwatch.net . In his freetime he enjoys to travel."
+  email: guese.justin@gmail.com
+  disqus-shortname: JohnGates
   twitter: #username
-  facebook: #username
+  facebook: guese.justin
   google:
-    plus: #username
-    analytics:
+    plus: 116424497282893876716
+    analytics: UA-56269619-5
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: johnson11
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
-  instagram: #username
+  instagram: guestros
   lastfm: #username
   tumblr: #username
   pinterest: #username
