@@ -2,7 +2,11 @@
 
 title:            Mr. Smartwatch
 locale:           de_DE
+<<<<<<< HEAD
 url:
+=======
+url:		  http://www.mrsmartwatch.net
+>>>>>>> gh-pages
 
 
 # Jekyll configuration
